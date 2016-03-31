@@ -1,0 +1,12 @@
+{
+    "hello-world": {
+        "name": "Hello World!",
+        "author": "Marvin König",
+        "source": "console.log(\"Hello World!\");"
+    },
+    "alert": {
+        "name": "Alert",
+        "author": "Marvin König",
+        "source": "alert(\"Hello World!\");"
+    }
+}

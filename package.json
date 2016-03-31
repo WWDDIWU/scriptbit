@@ -1,0 +1,19 @@
+{
+  "name": "scriptbit",
+  "version": "0.0.1",
+  "description": "Scriptbit",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WWDDIWU/scriptbit.git"
+  },
+  "author": "WWDDIWU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WWDDIWU/scriptbit/issues"
+  },
+  "homepage": "https://github.com/WWDDIWU/scriptbit#readme"
+}

@@ -1,6 +1,0 @@
-[submodule "scriptbit-backend"]
-	path = scriptbit-backend
-	url = https://github.com/WWDDIWU/scriptbit-backend.git
-[submodule "scriptbit-frontend"]
-	path = scriptbit-frontend
-	url = https://github.com/WWDDIWU/scriptbit-frontend.git
